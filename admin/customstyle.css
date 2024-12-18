@@ -1,0 +1,71 @@
+/* CSS */
+.edit{
+    background: green;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-style: solid;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    height: 30px;
+    font-size: 13px;
+    outline: 0;
+    overflow: hidden;
+    padding: 0 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.edit:active {
+  border-bottom-color: green;
+}
+.edit:active:hover {
+  border-bottom-color: green;
+}
+.edit:hover {
+  border-color: green;
+}
+.edit:focus {
+  border-color: green;
+  outline: 0;
+}
+
+
+.delete{
+    background: red;
+    color: #fff;
+    border: none;
+    outline: none;
+    border-style: solid;
+    border-radius: 5px;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 14px;
+    height: 30px;
+    font-size: 13px;
+    outline: 0;
+    overflow: hidden;
+    padding: 0 20px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+  .delete:active {
+  border-bottom-color: red;
+}
+.delete:active:hover {
+  border-bottom-color: red;
+}
+.delete:hover {
+  border-color: red;
+}
+.delete:focus {
+  border-color: red;
+  outline: 0;
+}
+  
+  
+  
+  
